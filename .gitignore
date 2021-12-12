@@ -130,3 +130,5 @@ dmypy.json
 #ignore the csv files
 movies_metadata.csv
 ratings.csv
+
+.DS_Store
